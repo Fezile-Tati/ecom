@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://demo.themefisher.com/vex-hugo/"
+baseurl = "https://fezile-tati.github.io/ecom/"
 publishDir = "docs"
 title = "Azoriguard"
 theme = "ecom"
