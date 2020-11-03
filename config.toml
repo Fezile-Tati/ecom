@@ -1,5 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "http://demo.themefisher.com/vex-hugo/"
+publishDir = "docs"
 title = "Azoriguard"
 theme = "ecom"
 # post excert
