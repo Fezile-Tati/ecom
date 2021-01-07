@@ -1,8 +1,10 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "'Why meet expectations when we can surpass them'"
+  content : "Our studio’s vision is to enhance and bring to life the way people interact and experice interiors spaces.
+             inducive to a health work environment and synergy. 
+             Azoriguards modern interiors design studio specialies in interior design and décor, renovations and space planning."
   image : "images/f1.png"
   button:
    enable : true
@@ -12,78 +14,89 @@ banner:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
-  image : "images/f2.png"
+  title : "Our Core Design Process"
+  image : "images/i37.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Set 1: Consultation"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "First we begin with a consultation session to determine what your needs and expectations are.
+               Our Client are asked a series of question that will allow us to deliver precise and accurate results."
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Set 2: Research ,Planning and Elegant Design"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Our team of designers then begin to conceptualize and analyze your design needs and the key components identified during the consultation stage. 
+               The design team then start researching and planning innovative design solutions, crafting the perfect ambiance and character for your space."
     
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Step 3: Refine and Reinforce"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "During this step we provide the client with a feedback report in which the space-layout, Design finish, Itemised costing and furniturching is discussed. 
+               We advise our client to schedule a consultation session so we can further refine and perfect our design solution. 
+               This stage terminates once the client has signed off and agreed to the designs, timelines, costings and finishes."
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Step 4: Development and Manufacturing"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Once the client is satisfied and has paid a deposit, manufacturing will commence.
+               During this stage our project Manager ensure all activites occur within the specified time,
+               to ensure we fulfill the agreed timeline."
 
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Step 5: Installation and Completion"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Once manufacturing has been completed the final stage consist of the installation and project completion."
 
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Exceeding Expectation "
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "For our loyal customer, we like to show our appreciation for the continued surpport.
+               We deliver free honey to our most loyal customer when we have excess harvest"
 
 
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/f3.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+  image : "images/f3.1.png"
+  title : "Designed by professional , Solicitude by experts"
+  content : "Azoriguard runs a small local Bee farm as part of our corporate socail responsibilty program.
+             We aim to increase the dwendaling BEE population in South Africa thereby contributiong to a sustainable environment.
+             For our most loyal customer we delivery free honey as a sign of our thankfullness once it is havest session.
             <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+            This is one of the many ways we stay true to our motto 'Why meet your expectations when we can exceed them'"
 
 
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Designed by passion"
   items:
     # about product item loop
-    - image : "images/showcase/s12.png"
+    - image : "images/showcase/s3.png"
       title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      content : "Everyone deserves to live or work in an health, productive space that enable individual to reach thier potential.
+                 Our designs energise you or relaxes you depending on the desired ambiance. Our Design team carefully work with you,
+                 to ensure the end product is a unique space which is true to your needs and finely bespoke."
       button:
         enable : false
         label : "Check Features"
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/s9.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/f2.png"
+      title : "Exceeding expectations"
+      content : "Our team of interior designers continue to set the standards for design solutions. 
+                 We contineously strive to lead our industry in service excellence.
+                 whether it be commercial or residential interiors we love designing solutions that incorporate only the best
+                 composition of materials and textures. We effeciently utilies every square meter, masterfully using depth and height to increase your
+                 production per square unit. Creating modern design and forward-thinking spatial experiences that far exceed our clients’
+                 expectations is what we do."
       button:
         enable : false
         label : "Check Features"
@@ -99,7 +112,7 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
+  bg_image : "images/i20.jpg"
   title : "Get Product Updates"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder : "Your Email Address Here"

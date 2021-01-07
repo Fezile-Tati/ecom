@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://fezile-tati.github.io/ecom/products/product-16/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fezile-tati.github.io/ecom/products/product-9/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
@@ -145,6 +140,11 @@
                 hreflang="en"
                 href="https://fezile-tati.github.io/ecom/products/product-4/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://fezile-tati.github.io/ecom/products/product-16/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>

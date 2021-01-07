@@ -3,9 +3,7 @@ title: "Apple Watch"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/wood7.jpg"
-  - "images/showcase/wood2.jpg"
-  - "images/showcase/wood8.jpg"
-  - "images/showcase/wood4.jpg"
+  
   
 # meta description
 description : "this is meta description"

@@ -2,14 +2,8 @@
 title: "OnePlus Watch"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-7.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+
   - "images/showcase/wood7.jpg"
-  - "images/showcase/wood2.jpg"
-  - "images/showcase/wood3.jpg"
-  - "images/showcase/wood4.jpg" 
 
 # meta description
 description : "this is meta description"
